@@ -2,13 +2,14 @@
 Saya Haris Maulana [2209058] berjanji tidak akan curang dalam Latihan soal 2 matkul DPBO demi keberkahannya
 
 # Diagram desain #
+![Diagram latsoal2](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/07af6fd5-909f-48b5-90d5-a1ec38359c70)
 
 
 # Desain program #
 Program ini dirancang/didesain untuk mengelola pembuatan produk baju. diimplementasikan dengan 4 bahasa yaitu, Java, C++, Python, PHP. semua dari bahasa itu menggunakan konsep OOP atau pemrograman berorientasi objek. terdapat 4 File (3 Class dan 1 Main), yang pertama adalah 'Produk', kedua adalah 'Clothing', ketiga adalah 'Shirt', dan yang keempat adalah 'Main'
 
 # ALUR #
-pada saat program dijalankan, program akan membuat produk kosong. kedua, user akan diperlihatkan sebuah menu yang terdapat opsi yang bisa berinteraksi dengan program. Ketiga, user bisa menambahkan produk baju dan juga bisa menampilkan produk baju. keempat, program akan terus berjalan selama user tidak memilih untuk keluar.
+pada saat program dijalankan, program akan membuat produk kosong, lalu user akan diperlihatkan sebuah menu yang terdapat opsi yang bisa berinteraksi dengan program dan user bisa menambahkan produk baju dan juga bisa menampilkan produk baju. keempat, program akan terus berjalan selama user tidak memilih untuk keluar.
 
 # DOKUMENTASI #
 1. Menu opsi
