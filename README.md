@@ -22,7 +22,7 @@ ketika program dijalankan, user akan diperlihatkan 3 opsi menu yang bisa dipilih
 ![Penambahan baju (1) py](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/8f5eb1fa-4771-4129-b4e0-ac15afc74ed3)
 ![Penambahan baju (2) py](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/b3ba37d5-42f0-4037-bbac-7cfdc807c3c8)
 
-jika user memilih opsi 1, maka user bisa membuat produk baju mulai dari nama, id, brand, harga, hingga tipe lengan baju tersebut.
+jika user memilih opsi 1, maka user bisa membuat produk baju mulai dari nama, id, brand, harga, hingga tipe lengan baju tersebut (user tersebut bisa membuat 3 baju jika user mau).
 
 3. Menampilkan produk
 
