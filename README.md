@@ -1,4 +1,4 @@
-![(Kode) opsi](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/82b62243-6baf-42ac-b918-ec9d55977687)# JANJI #
+# JANJI #
 Saya Haris Maulana [2209058] berjanji tidak akan curang dalam Latihan soal 2 matkul DPBO demi keberkahannya
 
 # Diagram desain #
@@ -12,23 +12,28 @@ pada saat program dijalankan, program akan membuat produk kosong. kedua, user ak
 
 # DOKUMENTASI #
 1. Menu opsi
+
 ![opsi](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/2d01039b-861b-4a2a-b244-ae4c87f31877)
 
 ketika program dijalankan, user akan diperlihatkan 3 opsi menu yang bisa dipilih oleh user
 
 3. Penambahan baju
+
 ![Penambahan baju (1) py](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/8f5eb1fa-4771-4129-b4e0-ac15afc74ed3)
 ![Penambahan baju (2) py](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/b3ba37d5-42f0-4037-bbac-7cfdc807c3c8)
 
 jika user memilih opsi 1, maka user bisa membuat produk baju mulai dari nama, id, brand, harga, hingga tipe lengan baju tersebut.
 
 3. Menampilkan produk
+
 ![Menampilkan produk](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/a36b172f-3670-46ad-b100-be8c44be78a6)
 
 ketika user sudah membuat baju, maka baju tersebut bisa ditampilkan dengan opsi 2 di awal menu tadi. ketika opsi itu dipilih, akan menampilkan produk baju yang baru saja user buat
 
 4. Keluar dari program
+
 ![Keluar dari program](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/94620369-f5fa-4d37-8ef3-e638a759eb61)
+
 jika user memilih opsi '3' atau memilih selain dari menu yang ditampilkan, maka program tersebut akan berhenti dan user akan keluar dari program
 
 
