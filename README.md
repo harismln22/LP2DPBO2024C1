@@ -4,6 +4,9 @@ Saya Haris Maulana [2209058] berjanji tidak akan curang dalam Latihan soal 2 mat
 # Diagram desain #
 ![Diagram latsoal2](https://github.com/harismln22/LP2DPBO2024C1/assets/159020670/07af6fd5-909f-48b5-90d5-a1ec38359c70)
 
+Alasan:
+'Produk' menjadi orang tua untuk 'Clothing' karena mempunyai atribute yang umum (nama,id,brand,price). Atribute ini relevan untuk semua jenis produk seperti pakaian.
+'Clothing' menjadi orang tua untuk 'Shirt' karena 'Shirt' adalah jenis khusus dari Clothing (contoh khususnya Kemeja) oleh karena itu 'Shirt' dapat atribute dari Clothing sementara Shirt sendiri mempunyai atribute khusus, yaitu Color dan Sleeve type.
 
 # Desain program #
 Program ini dirancang/didesain untuk mengelola pembuatan produk baju. diimplementasikan dengan 4 bahasa yaitu, Java, C++, Python, PHP. semua dari bahasa itu menggunakan konsep OOP atau pemrograman berorientasi objek. terdapat 4 File (3 Class dan 1 Main), yang pertama adalah 'Produk', kedua adalah 'Clothing', ketiga adalah 'Shirt', dan yang keempat adalah 'Main'
